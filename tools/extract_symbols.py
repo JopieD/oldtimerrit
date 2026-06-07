@@ -52,11 +52,11 @@ for page_index in range(1, len(doc) - 1):
     scale_x = img.width / page.rect.width
     scale_y = img.height / page.rect.height
 
-    print("\n" + "=" * 60)
-    print(f"PAGE {page_index + 1}")
-    print(f"PDF size : {page.rect.width:.2f} x {page.rect.height:.2f}")
-    print(f"IMG size : {img.width} x {img.height}")
-    print(f"Scale    : x={scale_x:.3f} y={scale_y:.3f}")
+    # print("\n" + "=" * 60)
+    # print(f"PAGE {page_index + 1}")
+    # print(f"PDF size : {page.rect.width:.2f} x {page.rect.height:.2f}")
+    # print(f"IMG size : {img.width} x {img.height}")
+    # print(f"Scale    : x={scale_x:.3f} y={scale_y:.3f}")
 
     #
     # Waypoints zoeken
@@ -107,8 +107,8 @@ for page_index in range(1, len(doc) - 1):
         key=lambda x: x["y"]
     )
 
-    print(f"Waypoints gevonden: {len(wps)}")
-    print(wps)
+    # print(f"Waypoints gevonden: {len(wps)}")
+    # print(wps)
 
     if not wps:
         continue
@@ -182,22 +182,22 @@ for page_index in range(1, len(doc) - 1):
             print(f"SKIP WP {wp['nr']} (y)")
             continue
 
-        print(
-            f"WP {wp['nr']:2d} | "
-            f"LEFT_PDF={LEFT_PDF} "
-            f"RIGHT_PDF={RIGHT_PDF} | "
-            f"x1={x1} "
-            f"x2={x2} | "
-            f"width={x2-x1}"
-        )
+        # print(
+        #     f"WP {wp['nr']:2d} | "
+        #     f"LEFT_PDF={LEFT_PDF} "
+        #     f"RIGHT_PDF={RIGHT_PDF} | "
+        #     f"x1={x1} "
+        #     f"x2={x2} | "
+        #     f"width={x2-x1}"
+        # )
 
-        print(
-            f"         "
-            f"y_pdf={current_y:.2f} | "
-            f"y1={y1} "
-            f"y2={y2} | "
-            f"height={y2-y1}"
-        )
+        # print(
+        #     f"         "
+        #     f"y_pdf={current_y:.2f} | "
+        #     f"y1={y1} "
+        #     f"y2={y2} | "
+        #     f"height={y2-y1}"
+        # )
 
         crop = img.crop(
             (x1, y1, x2, y2)
@@ -207,8 +207,8 @@ for page_index in range(1, len(doc) - 1):
 
         crop.save(filename)
 
-        print(f"         -> {filename}")
+        # print(f"         -> {filename}")
 
         symbol_nr += 1
 
-print(f"\nKlaar. {symbol_nr - 1} symbolen opgeslagen.")
+print(f"{symbol_nr - 1} symbolen opgeslagen.")
