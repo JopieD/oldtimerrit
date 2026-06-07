@@ -1,12 +1,19 @@
 from pathlib import Path
+import sys
 import fitz
 from PIL import Image
 import re
 
-PDF_FILE = "DGR 2026-1.pdf"
+if len(sys.argv) != 2:
+    print("Gebruik: python3 extract_symbols.py <ritnaam>")
+    sys.exit(1)
 
-OUTDIR = Path("symbols")
-OUTDIR.mkdir(exist_ok=True)
+ritnaam = sys.argv[1]
+
+PDF_FILE = Path("input") / f"{ritnaam}.pdf"
+
+OUTDIR = Path("ritten") / ritnaam / "symbols"
+OUTDIR.mkdir(parents=True, exist_ok=True)
 
 # Rally Navigator symbol extraction
 #
