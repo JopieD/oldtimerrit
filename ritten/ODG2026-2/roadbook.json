@@ -1,0 +1,303 @@
+[
+  {
+    "nr": 1,
+    "total": 0.0,
+    "partial": 0.0,
+    "info": "Start Pauzeplek",
+    "symbol": "001.png"
+  },
+  {
+    "nr": 2,
+    "total": 0.05,
+    "partial": 0.05,
+    "info": "Petersweg",
+    "symbol": "002.png"
+  },
+  {
+    "nr": 3,
+    "total": 0.71,
+    "partial": 0.66,
+    "info": "",
+    "symbol": "003.png"
+  },
+  {
+    "nr": 4,
+    "total": 0.89,
+    "partial": 0.18,
+    "info": "Brinkweg",
+    "symbol": "004.png"
+  },
+  {
+    "nr": 5,
+    "total": 1.83,
+    "partial": 0.94,
+    "info": "",
+    "symbol": "005.png"
+  },
+  {
+    "nr": 6,
+    "total": 1.88,
+    "partial": 0.05,
+    "info": "",
+    "symbol": "006.png"
+  },
+  {
+    "nr": 7,
+    "total": 4.98,
+    "partial": 3.1,
+    "info": "",
+    "symbol": "007.png"
+  },
+  {
+    "nr": 8,
+    "total": 5.21,
+    "partial": 0.23,
+    "info": "Stoevelaarsweg",
+    "symbol": "008.png"
+  },
+  {
+    "nr": 9,
+    "total": 6.46,
+    "partial": 1.25,
+    "info": "",
+    "symbol": "009.png"
+  },
+  {
+    "nr": 10,
+    "total": 7.31,
+    "partial": 0.85,
+    "info": "",
+    "symbol": "010.png"
+  },
+  {
+    "nr": 11,
+    "total": 7.49,
+    "partial": 0.18,
+    "info": "",
+    "symbol": "011.png"
+  },
+  {
+    "nr": 12,
+    "total": 9.1,
+    "partial": 1.61,
+    "info": "",
+    "symbol": "012.png"
+  },
+  {
+    "nr": 13,
+    "total": 9.62,
+    "partial": 0.52,
+    "info": "",
+    "symbol": "013.png"
+  },
+  {
+    "nr": 14,
+    "total": 10.65,
+    "partial": 1.03,
+    "info": "Bullenaarsweg",
+    "symbol": "014.png"
+  },
+  {
+    "nr": 15,
+    "total": 13.73,
+    "partial": 3.08,
+    "info": "Wolvesweg",
+    "symbol": "015.png"
+  },
+  {
+    "nr": 16,
+    "total": 15.36,
+    "partial": 1.63,
+    "info": "",
+    "symbol": "016.png"
+  },
+  {
+    "nr": 17,
+    "total": 16.15,
+    "partial": 0.79,
+    "info": "Ganzenweg",
+    "symbol": "017.png"
+  },
+  {
+    "nr": 18,
+    "total": 16.49,
+    "partial": 0.34,
+    "info": "",
+    "symbol": "018.png"
+  },
+  {
+    "nr": 19,
+    "total": 17.05,
+    "partial": 0.56,
+    "info": "",
+    "symbol": "019.png"
+  },
+  {
+    "nr": 20,
+    "total": 17.98,
+    "partial": 0.93,
+    "info": "Reintsweg",
+    "symbol": "020.png"
+  },
+  {
+    "nr": 21,
+    "total": 18.32,
+    "partial": 0.34,
+    "info": "",
+    "symbol": "021.png"
+  },
+  {
+    "nr": 22,
+    "total": 18.36,
+    "partial": 0.04,
+    "info": "",
+    "symbol": "022.png"
+  },
+  {
+    "nr": 23,
+    "total": 20.28,
+    "partial": 1.92,
+    "info": "",
+    "symbol": "023.png"
+  },
+  {
+    "nr": 24,
+    "total": 22.54,
+    "partial": 2.26,
+    "info": "",
+    "symbol": "024.png"
+  },
+  {
+    "nr": 25,
+    "total": 23.55,
+    "partial": 1.01,
+    "info": "Zomerweg",
+    "symbol": "025.png"
+  },
+  {
+    "nr": 26,
+    "total": 25.38,
+    "partial": 1.83,
+    "info": "Dieckertsweg",
+    "symbol": "026.png"
+  },
+  {
+    "nr": 27,
+    "total": 26.8,
+    "partial": 1.42,
+    "info": "Bollenweg",
+    "symbol": "027.png"
+  },
+  {
+    "nr": 28,
+    "total": 28.43,
+    "partial": 1.63,
+    "info": "",
+    "symbol": "028.png"
+  },
+  {
+    "nr": 29,
+    "total": 30.46,
+    "partial": 2.03,
+    "info": "Sloezenweg",
+    "symbol": "029.png"
+  },
+  {
+    "nr": 30,
+    "total": 31.58,
+    "partial": 1.12,
+    "info": "",
+    "symbol": "030.png"
+  },
+  {
+    "nr": 31,
+    "total": 33.47,
+    "partial": 1.89,
+    "info": "Keupersveenweg",
+    "symbol": "031.png"
+  },
+  {
+    "nr": 32,
+    "total": 33.95,
+    "partial": 0.48,
+    "info": "",
+    "symbol": "032.png"
+  },
+  {
+    "nr": 33,
+    "total": 34.73,
+    "partial": 0.78,
+    "info": "",
+    "symbol": "033.png"
+  },
+  {
+    "nr": 34,
+    "total": 35.77,
+    "partial": 1.04,
+    "info": "Weldammerstraat",
+    "symbol": "034.png"
+  },
+  {
+    "nr": 35,
+    "total": 36.89,
+    "partial": 1.12,
+    "info": "",
+    "symbol": "035.png"
+  },
+  {
+    "nr": 36,
+    "total": 39.27,
+    "partial": 2.38,
+    "info": "",
+    "symbol": "036.png"
+  },
+  {
+    "nr": 37,
+    "total": 40.56,
+    "partial": 1.29,
+    "info": "",
+    "symbol": "037.png"
+  },
+  {
+    "nr": 38,
+    "total": 42.01,
+    "partial": 1.45,
+    "info": "",
+    "symbol": "038.png"
+  },
+  {
+    "nr": 39,
+    "total": 42.27,
+    "partial": 0.26,
+    "info": "",
+    "symbol": "039.png"
+  },
+  {
+    "nr": 40,
+    "total": 43.92,
+    "partial": 1.65,
+    "info": "",
+    "symbol": "040.png"
+  },
+  {
+    "nr": 41,
+    "total": 44.1,
+    "partial": 0.18,
+    "info": "",
+    "symbol": "041.png"
+  },
+  {
+    "nr": 42,
+    "total": 44.16,
+    "partial": 0.06,
+    "info": "",
+    "symbol": "042.png"
+  },
+  {
+    "nr": 43,
+    "total": 44.18,
+    "partial": 0.02,
+    "info": "",
+    "symbol": "043.png"
+  }
+]
