@@ -1,8 +1,21 @@
 import xml.etree.ElementTree as ET
 import json
+import sys
+from pathlib import Path
 import re
 
-tree = ET.parse("DGR 2026-1.gpx")
+if len(sys.argv) != 2:
+    print("Gebruik: python3 gpx_to_json.py <ritnaam>")
+    sys.exit(1)
+
+ritnaam = sys.argv[1]
+
+gpx_file = Path("input") / f"{ritnaam}.gpx"
+output_dir = Path("ritten") / ritnaam
+
+output_dir.mkdir(parents=True, exist_ok=True)
+
+tree = ET.parse(gpx_file)
 root = tree.getroot()
 
 ns = {
@@ -31,7 +44,7 @@ for wpt in root.findall(".//g:wpt", ns):
 
 waypoints.sort(key=lambda x: x["nr"])
 
-with open("route.json", "w") as f:
+with open(output_dir / "route.json", "w") as f:    
     json.dump(
         waypoints,
         f,
@@ -49,7 +62,7 @@ for trkpt in root.findall(".//g:trkpt", ns):
         float(trkpt.attrib["lon"])
     ])
 
-with open("track.json", "w") as f:
+with open(output_dir / "track.json", "w") as f:    
     json.dump(
         track,
         f,
