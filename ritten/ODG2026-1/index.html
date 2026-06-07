@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <title>Oldtimerrit</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+</head>
+
+<body>
+
+    <h1 id="wp">Waypoint...</h1>
+
+    <div id="roadbook">
+        <img id="symbol">
+    </div>
+
+    <div id="info"></div>
+
+    <div id="distance">
+        ---
+    </div>
+
+    <div id="map"></div>
+
+    <div id="gps">
+        GPS wacht...
+    </div>
+
+    <button onclick="nextWaypoint()">
+        Volgende waypoint
+    </button>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/app.js"></script>
+
+</body>
+</html>
