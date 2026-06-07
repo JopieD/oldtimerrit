@@ -1,0 +1,331 @@
+[
+  {
+    "nr": 1,
+    "total": 0.0,
+    "partial": 0.0,
+    "info": "Start",
+    "symbol": "001.png"
+  },
+  {
+    "nr": 2,
+    "total": 0.05,
+    "partial": 0.05,
+    "info": "",
+    "symbol": "002.png"
+  },
+  {
+    "nr": 3,
+    "total": 0.5,
+    "partial": 0.45,
+    "info": "",
+    "symbol": "003.png"
+  },
+  {
+    "nr": 4,
+    "total": 3.23,
+    "partial": 2.73,
+    "info": "",
+    "symbol": "004.png"
+  },
+  {
+    "nr": 5,
+    "total": 4.15,
+    "partial": 0.92,
+    "info": "",
+    "symbol": "005.png"
+  },
+  {
+    "nr": 6,
+    "total": 6.61,
+    "partial": 2.46,
+    "info": "Ensinkgoorsdijk",
+    "symbol": "006.png"
+  },
+  {
+    "nr": 7,
+    "total": 7.21,
+    "partial": 0.6,
+    "info": "",
+    "symbol": "007.png"
+  },
+  {
+    "nr": 8,
+    "total": 7.94,
+    "partial": 0.73,
+    "info": "",
+    "symbol": "008.png"
+  },
+  {
+    "nr": 9,
+    "total": 11.97,
+    "partial": 4.03,
+    "info": "Rietdijk",
+    "symbol": "009.png"
+  },
+  {
+    "nr": 10,
+    "total": 13.13,
+    "partial": 1.16,
+    "info": "",
+    "symbol": "010.png"
+  },
+  {
+    "nr": 11,
+    "total": 13.69,
+    "partial": 0.56,
+    "info": "",
+    "symbol": "011.png"
+  },
+  {
+    "nr": 12,
+    "total": 17.62,
+    "partial": 3.93,
+    "info": "",
+    "symbol": "012.png"
+  },
+  {
+    "nr": 13,
+    "total": 17.88,
+    "partial": 0.26,
+    "info": "",
+    "symbol": "013.png"
+  },
+  {
+    "nr": 14,
+    "total": 18.57,
+    "partial": 0.69,
+    "info": "",
+    "symbol": "014.png"
+  },
+  {
+    "nr": 15,
+    "total": 18.66,
+    "partial": 0.09,
+    "info": "",
+    "symbol": "015.png"
+  },
+  {
+    "nr": 16,
+    "total": 18.75,
+    "partial": 0.09,
+    "info": "",
+    "symbol": "016.png"
+  },
+  {
+    "nr": 17,
+    "total": 20.06,
+    "partial": 1.31,
+    "info": "",
+    "symbol": "017.png"
+  },
+  {
+    "nr": 18,
+    "total": 20.45,
+    "partial": 0.39,
+    "info": "Kattensteeg",
+    "symbol": "018.png"
+  },
+  {
+    "nr": 19,
+    "total": 20.72,
+    "partial": 0.27,
+    "info": "",
+    "symbol": "019.png"
+  },
+  {
+    "nr": 20,
+    "total": 20.88,
+    "partial": 0.16,
+    "info": "Kriegersteeg",
+    "symbol": "020.png"
+  },
+  {
+    "nr": 21,
+    "total": 21.51,
+    "partial": 0.63,
+    "info": "Helhuizerweg",
+    "symbol": "021.png"
+  },
+  {
+    "nr": 22,
+    "total": 21.65,
+    "partial": 0.14,
+    "info": "",
+    "symbol": "022.png"
+  },
+  {
+    "nr": 23,
+    "total": 22.88,
+    "partial": 1.23,
+    "info": "",
+    "symbol": "023.png"
+  },
+  {
+    "nr": 24,
+    "total": 23.73,
+    "partial": 0.85,
+    "info": "Forthaarsweg",
+    "symbol": "024.png"
+  },
+  {
+    "nr": 25,
+    "total": 24.62,
+    "partial": 0.89,
+    "info": "",
+    "symbol": "025.png"
+  },
+  {
+    "nr": 26,
+    "total": 24.91,
+    "partial": 0.29,
+    "info": "Reebokkenweg",
+    "symbol": "026.png"
+  },
+  {
+    "nr": 27,
+    "total": 25.16,
+    "partial": 0.25,
+    "info": "",
+    "symbol": "027.png"
+  },
+  {
+    "nr": 28,
+    "total": 25.37,
+    "partial": 0.21,
+    "info": "Fazantenweg",
+    "symbol": "028.png"
+  },
+  {
+    "nr": 29,
+    "total": 25.65,
+    "partial": 0.28,
+    "info": "",
+    "symbol": "029.png"
+  },
+  {
+    "nr": 30,
+    "total": 25.91,
+    "partial": 0.26,
+    "info": "Buizerdweg",
+    "symbol": "030.png"
+  },
+  {
+    "nr": 31,
+    "total": 26.05,
+    "partial": 0.14,
+    "info": "",
+    "symbol": "031.png"
+  },
+  {
+    "nr": 32,
+    "total": 26.21,
+    "partial": 0.16,
+    "info": "Vossenweg",
+    "symbol": "032.png"
+  },
+  {
+    "nr": 33,
+    "total": 26.84,
+    "partial": 0.63,
+    "info": "",
+    "symbol": "033.png"
+  },
+  {
+    "nr": 34,
+    "total": 27.65,
+    "partial": 0.81,
+    "info": "",
+    "symbol": "034.png"
+  },
+  {
+    "nr": 35,
+    "total": 27.9,
+    "partial": 0.25,
+    "info": "",
+    "symbol": "035.png"
+  },
+  {
+    "nr": 36,
+    "total": 29.64,
+    "partial": 1.74,
+    "info": "",
+    "symbol": "036.png"
+  },
+  {
+    "nr": 37,
+    "total": 29.85,
+    "partial": 0.21,
+    "info": "",
+    "symbol": "037.png"
+  },
+  {
+    "nr": 38,
+    "total": 30.43,
+    "partial": 0.58,
+    "info": "",
+    "symbol": "038.png"
+  },
+  {
+    "nr": 39,
+    "total": 31.39,
+    "partial": 0.96,
+    "info": "",
+    "symbol": "039.png"
+  },
+  {
+    "nr": 40,
+    "total": 31.87,
+    "partial": 0.48,
+    "info": "",
+    "symbol": "040.png"
+  },
+  {
+    "nr": 41,
+    "total": 33.08,
+    "partial": 1.21,
+    "info": "",
+    "symbol": "041.png"
+  },
+  {
+    "nr": 42,
+    "total": 35.61,
+    "partial": 2.53,
+    "info": "Postweg",
+    "symbol": "042.png"
+  },
+  {
+    "nr": 43,
+    "total": 37.84,
+    "partial": 2.23,
+    "info": "Stokkumerweg",
+    "symbol": "043.png"
+  },
+  {
+    "nr": 44,
+    "total": 40.4,
+    "partial": 2.56,
+    "info": "",
+    "symbol": "044.png"
+  },
+  {
+    "nr": 45,
+    "total": 40.43,
+    "partial": 0.03,
+    "info": "Petersweg",
+    "symbol": "045.png"
+  },
+  {
+    "nr": 46,
+    "total": 41.1,
+    "partial": 0.67,
+    "info": "",
+    "symbol": "046.png"
+  },
+  {
+    "nr": 47,
+    "total": 41.14,
+    "partial": 0.04,
+    "info": "Pauze",
+    "symbol": "047.png"
+  }
+]
