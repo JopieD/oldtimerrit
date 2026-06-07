@@ -1,9 +1,20 @@
 import re
 import json
 import pdfplumber
+import sys
 
-PDF_FILE = "DGR 2026-1.pdf"
+from pathlib import Path
 
+if len(sys.argv) != 2:
+    print("Gebruik: python3 roadbook_import.py <ritnaam>")
+    sys.exit(1)
+
+ritnaam = sys.argv[1]
+
+PDF_FILE = Path("input") / f"{ritnaam}.pdf"
+output_dir = Path("ritten") / ritnaam
+
+output_dir.mkdir(parents=True, exist_ok=True)
 
 def clean_info(info):
     info = info.strip()
@@ -87,7 +98,7 @@ with pdfplumber.open(PDF_FILE) as pdf:
 print(f"{len(roadbook)} records gevonden")
 
 with open(
-    "roadbook.json",
+    output_dir / "roadbook.json",
     "w",
     encoding="utf-8"
 ) as f:
