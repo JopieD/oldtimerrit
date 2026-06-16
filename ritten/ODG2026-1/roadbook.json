@@ -10,28 +10,28 @@
     "nr": 2,
     "total": 0.05,
     "partial": 0.05,
-    "info": "",
+    "info": "2",
     "symbol": "002.png"
   },
   {
     "nr": 3,
     "total": 0.5,
     "partial": 0.45,
-    "info": "",
+    "info": "3",
     "symbol": "003.png"
   },
   {
     "nr": 4,
     "total": 3.23,
     "partial": 2.73,
-    "info": "",
+    "info": "4",
     "symbol": "004.png"
   },
   {
     "nr": 5,
     "total": 4.15,
     "partial": 0.92,
-    "info": "",
+    "info": "5",
     "symbol": "005.png"
   },
   {
@@ -169,163 +169,142 @@
   },
   {
     "nr": 25,
-    "total": 24.62,
-    "partial": 0.89,
-    "info": "",
+    "total": 25.03,
+    "partial": 1.3,
+    "info": "Fazantenweg",
     "symbol": "025.png"
   },
   {
     "nr": 26,
-    "total": 24.91,
-    "partial": 0.29,
-    "info": "Reebokkenweg",
+    "total": 25.31,
+    "partial": 0.28,
+    "info": "",
     "symbol": "026.png"
   },
   {
     "nr": 27,
-    "total": 25.16,
+    "total": 25.56,
     "partial": 0.25,
-    "info": "",
+    "info": "Buizerdweg",
     "symbol": "027.png"
   },
   {
     "nr": 28,
-    "total": 25.37,
-    "partial": 0.21,
-    "info": "Fazantenweg",
+    "total": 25.71,
+    "partial": 0.15,
+    "info": "",
     "symbol": "028.png"
   },
   {
     "nr": 29,
-    "total": 25.65,
-    "partial": 0.28,
-    "info": "",
+    "total": 25.86,
+    "partial": 0.15,
+    "info": "Vossenweg",
     "symbol": "029.png"
   },
   {
     "nr": 30,
-    "total": 25.91,
-    "partial": 0.26,
-    "info": "Buizerdweg",
+    "total": 26.5,
+    "partial": 0.64,
+    "info": "",
     "symbol": "030.png"
   },
   {
     "nr": 31,
-    "total": 26.05,
-    "partial": 0.14,
+    "total": 27.31,
+    "partial": 0.81,
     "info": "",
     "symbol": "031.png"
   },
   {
     "nr": 32,
-    "total": 26.21,
-    "partial": 0.16,
-    "info": "Vossenweg",
+    "total": 27.55,
+    "partial": 0.24,
+    "info": "",
     "symbol": "032.png"
   },
   {
     "nr": 33,
-    "total": 26.84,
-    "partial": 0.63,
+    "total": 29.29,
+    "partial": 1.74,
     "info": "",
     "symbol": "033.png"
   },
   {
     "nr": 34,
-    "total": 27.65,
-    "partial": 0.81,
+    "total": 29.5,
+    "partial": 0.21,
     "info": "",
     "symbol": "034.png"
   },
   {
     "nr": 35,
-    "total": 27.9,
-    "partial": 0.25,
+    "total": 30.09,
+    "partial": 0.59,
     "info": "",
     "symbol": "035.png"
   },
   {
     "nr": 36,
-    "total": 29.64,
-    "partial": 1.74,
+    "total": 31.04,
+    "partial": 0.95,
     "info": "",
     "symbol": "036.png"
   },
   {
     "nr": 37,
-    "total": 29.85,
-    "partial": 0.21,
+    "total": 31.53,
+    "partial": 0.49,
     "info": "",
     "symbol": "037.png"
   },
   {
     "nr": 38,
-    "total": 30.43,
-    "partial": 0.58,
+    "total": 32.74,
+    "partial": 1.21,
     "info": "",
     "symbol": "038.png"
   },
   {
     "nr": 39,
-    "total": 31.39,
-    "partial": 0.96,
-    "info": "",
+    "total": 35.26,
+    "partial": 2.52,
+    "info": "Postweg",
     "symbol": "039.png"
   },
   {
     "nr": 40,
-    "total": 31.87,
-    "partial": 0.48,
-    "info": "",
+    "total": 37.5,
+    "partial": 2.24,
+    "info": "Stokkumerweg",
     "symbol": "040.png"
   },
   {
     "nr": 41,
-    "total": 33.08,
-    "partial": 1.21,
+    "total": 40.06,
+    "partial": 2.56,
     "info": "",
     "symbol": "041.png"
   },
   {
     "nr": 42,
-    "total": 35.61,
-    "partial": 2.53,
-    "info": "Postweg",
+    "total": 40.09,
+    "partial": 0.03,
+    "info": "Petersweg",
     "symbol": "042.png"
   },
   {
     "nr": 43,
-    "total": 37.84,
-    "partial": 2.23,
-    "info": "Stokkumerweg",
+    "total": 40.75,
+    "partial": 0.66,
+    "info": "",
     "symbol": "043.png"
   },
   {
     "nr": 44,
-    "total": 40.4,
-    "partial": 2.56,
-    "info": "",
-    "symbol": "044.png"
-  },
-  {
-    "nr": 45,
-    "total": 40.43,
-    "partial": 0.03,
-    "info": "Petersweg",
-    "symbol": "045.png"
-  },
-  {
-    "nr": 46,
-    "total": 41.1,
-    "partial": 0.67,
-    "info": "",
-    "symbol": "046.png"
-  },
-  {
-    "nr": 47,
-    "total": 41.14,
+    "total": 40.79,
     "partial": 0.04,
     "info": "Pauze",
-    "symbol": "047.png"
+    "symbol": "044.png"
   }
 ]
